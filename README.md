@@ -17,9 +17,9 @@
 <p/>
 <p align="center">
 <a href="https://github.com/anonphoenix007?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/anonphoenix007?label=Followers&style=social"></a>
-<a href="https://github.com/anonphoenix007/MAKINO-MD-V2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/anonphoenix007/MAKINO-MD-V2?&style=social"></a>
-<a href="https://github.com/anonphoenix007/MAKINO-MD-V2/network/members"><img title="Fork" src="https://img.shields.io/github/forks/anonphoenix007/MAKINO-MD-V2?style=social"></a>
-<a href="https://github.com/anonphoenix007/MAKINO-MD-V2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/anonphoenix007/MAKINO-MD-V2?label=Watching&style=social"></a>
+<a href="https://github.com/anonphoenix007/MAKINO-V2-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/anonphoenix007/MAKINO-V2-MD?&style=social"></a>
+<a href="https://github.com/anonphoenix007/MAKINO-V2-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/anonphoenix007/MAKINO-V2-MD?style=social"></a>
+<a href="https://github.com/anonphoenix007/MAKINO-V2-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/anonphoenix007/MAKINO-V2-MD?label=Watching&style=social"></a>
 </p>
 
 #### Notice
@@ -31,7 +31,7 @@ If you create a clone of my bot then Don't forget to give ***Credit***
 
 1. Fork the repo
     <br>
-<a href="https://github.com/anonphoenix007/MAKINO-MD-V2/fork"><img title="MAKINO-MD-V2" src="https://img.shields.io/badge/FORK_MAKINO-MD_V2-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/anonphoenix007/MAKINO-V2-MD/fork"><img title="MAKINO-MD-V2" src="https://img.shields.io/badge/FORK_MAKINO-V2-MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 2. Scan or pair to get session ID
     <br>
@@ -44,7 +44,7 @@ If you create a clone of my bot then Don't forget to give ***Credit***
 ```js
 global.Owner = ["2347080968564"]; 
 global.OwnerName = "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";
-global.BotName = "♱MAKINO-MD-V2♱♡⃤";
+global.BotName = "♱MAKINO-V2-MD♱♡⃤";
 global.SESSION_ID = process.env.SESSION_ID || "" //session ID here
 ```
 3.  put your session ID in global.SESSION_ID
@@ -55,7 +55,7 @@ global.SESSION_ID = process.env.SESSION_ID || "" //session ID here
 <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 2. Now Deploy
-    <a href='https://dashboard.heroku.com/new?template=https://github.com/Anonphoenix007/MAKINO-MD-V2' target="_blank"><img alt='DEPLOY Heroku' src='https://img.shields.io/badge/-Deploy-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+    <a href='https://dashboard.heroku.com/new?template=https://github.com/Anonphoenix007/MAKINO-V2-MD' target="_blank"><img alt='DEPLOY Heroku' src='https://img.shields.io/badge/-Deploy-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 
 #### DEPLOY TO CODESPACE
@@ -112,7 +112,7 @@ global.SESSION_ID = process.env.SESSION_ID || "" //session ID here
 ---
 # `Guide`📕
 
-- [Full Deploy Explanation & Termux Deploy & Vps Deploy](https://github.com/anonphoenix007/MAKINO-MD-V2/blob/main/guide.md)
+- [Full Deploy Explanation & Termux Deploy & Vps Deploy](https://github.com/anonphoenix007/MAKINO-V2-MD/blob/main/guide.md)
 ---
 
 ## ```Support Me```
