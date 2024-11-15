@@ -1,7 +1,7 @@
 {
-    "name": "MAKINO-MD-V2",
+    "name": "MAKINO-V2-MD",
     "version": "2.6.0",
-    "description": "MAKINO-MD-V2 is a WhatsApp multiDevice Bot  in Javascript using the Baileys module to make your WhatsApp experience easier.",
+    "description": "MAKINO-V2-MD is a WhatsApp multiDevice Bot  in Javascript using the Baileys module to make your WhatsApp experience easier,Based on MAKINO-MD-V2.",
     "main": "server.js",
     "directories": {
         "lib": "lib"
@@ -12,7 +12,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/anonphoenix007/MAKINO-MD-V2.git"
+        "url": "git+https://github.com/anonphoenix007/MAKINO-V2-MD.git"
     },
     "keywords": [
         "md-bot"
@@ -20,9 +20,9 @@
     "author": "Taira Makino",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/anonphoenix007/MAKINO-MD-V2/issues"
+        "url": "https://github.com/anonphoenix007/MAKINO-V2-MD/issues"
     },
-    "homepage": "https://github.com/anonphoenix007/MAKINO-MD-V2#readme",
+    "homepage": "https://github.com/anonphoenix007/MAKINO-V2-MD#readme",
     "devDependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",
         "@hapi/boom": "^10.0.1",
@@ -112,7 +112,7 @@
         "tod-api": "^1.0.5",
         "util": "^0.12.5",
         "vicuna-ts": "^1.2.2",
-        "wa-sticker-formatter": "^4.4.4",
+        "wa-sticker-formatter": "^4.3.2",
         "xfarr-api": "^1.0.3",
         "yargs": "^17.7.2",
         "youtube-yts": "^2.0.0",
