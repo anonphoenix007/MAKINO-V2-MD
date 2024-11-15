@@ -50,6 +50,7 @@ const gis = require("g-i-s");
 const long = String.fromCharCode(8206);
 const readmore = long.repeat(4001); 
 const fg = require("api-dylux")
+const { Sticker, createSticker, StickerTypes } = require("wa-sticker-formatter");
 const { 
   downloadContentFromMessage,
   WA_DEFAULT_EPHEMERAL,
